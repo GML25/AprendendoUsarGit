@@ -1,3 +1,4 @@
 Add - permite adicionar um arquivo ao controle de versão
 Status - permite conferir se ocorreram modificações dos arquivos, novos arquivos adicionados, etc
 Commit - serve para criar uma "criar uma nova versão do codigo" sendo essa possivel navegarentre as versoes
+Push - serve para  subir para o  repositorio que vc tiver vinculado 
