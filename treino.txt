@@ -3,3 +3,4 @@ Status - permite conferir se ocorreram modificações dos arquivos, novos arquiv
 Commit - serve para criar uma "criar uma nova versão do codigo" sendo essa possivel navegarentre as versoes
 Pull - puxa os arquivos do servidor para  sua maquina, garantindo que vc esta utilizando a versao mais att do  mesmo
 Push - serve para  subir para o  repositorio que vc tiver vinculado 
+Pull request- serve para algum outro programador verifique se seu codigo esta funcionando e aprove que vc possa dar o merge dele com a main
