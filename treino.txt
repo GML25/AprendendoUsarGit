@@ -1,1 +1,1 @@
-Add - adiciona o arquivo ao controle de versão
+Add - permite adicionar um arquivo ao controle de versão
